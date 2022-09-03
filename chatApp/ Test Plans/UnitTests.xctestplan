@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "AC9F2992-1B7C-43B9-97B2-E67993DADDCC",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:chatApp.xcodeproj",
+      "identifier" : "41D2DF8927C118B100C5EF69",
+      "name" : "chatApp"
+    },
+    "testExecutionOrdering" : "random",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:chatApp.xcodeproj",
+        "identifier" : "41D2DFA227C118B700C5EF69",
+        "name" : "chatAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
